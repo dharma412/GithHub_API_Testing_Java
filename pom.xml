@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
-    <artifactId>GithHubAPiTesting_Java</artifactId>
+    <artifactId>GithHub_APITesting_Java</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
